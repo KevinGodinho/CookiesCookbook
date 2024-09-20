@@ -1,0 +1,34 @@
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/CookiesCookbook/bin/Debug/net8.0/CookiesCookbook
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/CookiesCookbook/bin/Debug/net8.0/CookiesCookbook.deps.json
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/CookiesCookbook/bin/Debug/net8.0/CookiesCookbook.runtimeconfig.json
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/CookiesCookbook/bin/Debug/net8.0/CookiesCookbook.dll
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/CookiesCookbook/bin/Debug/net8.0/CookiesCookbook.pdb
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/CookiesCookbook/bin/Debug/net8.0/System.Text.Json.dll
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/CookiesCookbook/obj/Debug/net8.0/CookiesCookbook.csproj.AssemblyReference.cache
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/CookiesCookbook/obj/Debug/net8.0/CookiesCookbook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/CookiesCookbook/obj/Debug/net8.0/CookiesCookbook.AssemblyInfoInputs.cache
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/CookiesCookbook/obj/Debug/net8.0/CookiesCookbook.AssemblyInfo.cs
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/CookiesCookbook/obj/Debug/net8.0/CookiesCookbook.csproj.CoreCompileInputs.cache
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/CookiesCookbook/obj/Debug/net8.0/CookiesC.22B93B3A.Up2Date
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/CookiesCookbook/obj/Debug/net8.0/CookiesCookbook.dll
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/CookiesCookbook/obj/Debug/net8.0/refint/CookiesCookbook.dll
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/CookiesCookbook/obj/Debug/net8.0/CookiesCookbook.pdb
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/CookiesCookbook/obj/Debug/net8.0/CookiesCookbook.genruntimeconfig.cache
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/CookiesCookbook/obj/Debug/net8.0/ref/CookiesCookbook.dll
+/Users/kevin.godinho/RiderProjects/CookiesCookbook/CookiesCookbook/bin/Debug/net8.0/CookiesCookbook
+/Users/kevin.godinho/RiderProjects/CookiesCookbook/CookiesCookbook/bin/Debug/net8.0/CookiesCookbook.deps.json
+/Users/kevin.godinho/RiderProjects/CookiesCookbook/CookiesCookbook/bin/Debug/net8.0/CookiesCookbook.runtimeconfig.json
+/Users/kevin.godinho/RiderProjects/CookiesCookbook/CookiesCookbook/bin/Debug/net8.0/CookiesCookbook.dll
+/Users/kevin.godinho/RiderProjects/CookiesCookbook/CookiesCookbook/bin/Debug/net8.0/CookiesCookbook.pdb
+/Users/kevin.godinho/RiderProjects/CookiesCookbook/CookiesCookbook/bin/Debug/net8.0/System.Text.Json.dll
+/Users/kevin.godinho/RiderProjects/CookiesCookbook/CookiesCookbook/obj/Debug/net8.0/CookiesCookbook.csproj.AssemblyReference.cache
+/Users/kevin.godinho/RiderProjects/CookiesCookbook/CookiesCookbook/obj/Debug/net8.0/CookiesCookbook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevin.godinho/RiderProjects/CookiesCookbook/CookiesCookbook/obj/Debug/net8.0/CookiesCookbook.AssemblyInfoInputs.cache
+/Users/kevin.godinho/RiderProjects/CookiesCookbook/CookiesCookbook/obj/Debug/net8.0/CookiesCookbook.AssemblyInfo.cs
+/Users/kevin.godinho/RiderProjects/CookiesCookbook/CookiesCookbook/obj/Debug/net8.0/CookiesCookbook.csproj.CoreCompileInputs.cache
+/Users/kevin.godinho/RiderProjects/CookiesCookbook/CookiesCookbook/obj/Debug/net8.0/CookiesC.22B93B3A.Up2Date
+/Users/kevin.godinho/RiderProjects/CookiesCookbook/CookiesCookbook/obj/Debug/net8.0/CookiesCookbook.dll
+/Users/kevin.godinho/RiderProjects/CookiesCookbook/CookiesCookbook/obj/Debug/net8.0/refint/CookiesCookbook.dll
+/Users/kevin.godinho/RiderProjects/CookiesCookbook/CookiesCookbook/obj/Debug/net8.0/CookiesCookbook.pdb
+/Users/kevin.godinho/RiderProjects/CookiesCookbook/CookiesCookbook/obj/Debug/net8.0/CookiesCookbook.genruntimeconfig.cache
+/Users/kevin.godinho/RiderProjects/CookiesCookbook/CookiesCookbook/obj/Debug/net8.0/ref/CookiesCookbook.dll

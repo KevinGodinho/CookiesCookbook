@@ -1,0 +1,17 @@
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/Cookies Cookbook/bin/Debug/net8.0/Cookies Cookbook
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/Cookies Cookbook/bin/Debug/net8.0/Cookies Cookbook.deps.json
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/Cookies Cookbook/bin/Debug/net8.0/Cookies Cookbook.runtimeconfig.json
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/Cookies Cookbook/bin/Debug/net8.0/Cookies Cookbook.dll
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/Cookies Cookbook/bin/Debug/net8.0/Cookies Cookbook.pdb
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/Cookies Cookbook/obj/Debug/net8.0/Cookies Cookbook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/Cookies Cookbook/obj/Debug/net8.0/Cookies Cookbook.AssemblyInfoInputs.cache
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/Cookies Cookbook/obj/Debug/net8.0/Cookies Cookbook.AssemblyInfo.cs
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/Cookies Cookbook/obj/Debug/net8.0/Cookies Cookbook.csproj.CoreCompileInputs.cache
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/Cookies Cookbook/obj/Debug/net8.0/Cookies Cookbook.dll
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/Cookies Cookbook/obj/Debug/net8.0/refint/Cookies Cookbook.dll
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/Cookies Cookbook/obj/Debug/net8.0/Cookies Cookbook.pdb
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/Cookies Cookbook/obj/Debug/net8.0/Cookies Cookbook.genruntimeconfig.cache
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/Cookies Cookbook/obj/Debug/net8.0/ref/Cookies Cookbook.dll
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/Cookies Cookbook/bin/Debug/net8.0/System.Text.Json.dll
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/Cookies Cookbook/obj/Debug/net8.0/Cookies Cookbook.csproj.AssemblyReference.cache
+/Users/kevin.godinho/RiderProjects/Cookies Cookbook/Cookies Cookbook/obj/Debug/net8.0/Cookies .6255D578.Up2Date

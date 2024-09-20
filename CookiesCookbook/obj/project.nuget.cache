@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tQMksLWGBiZLp3mnB0tWYxupRl0b1Pty242k+iz3mcNn3uWjxtv15n7HPA3qddh178Gb+tleu6KkfVgIwhQzyw==",
+  "success": true,
+  "projectFilePath": "/Users/kevin.godinho/RiderProjects/CookiesCookbook/CookiesCookbook/CookiesCookbook.csproj",
+  "expectedPackageFiles": [
+    "/Users/kevin.godinho/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/Users/kevin.godinho/.nuget/packages/system.text.json/8.0.4/system.text.json.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
