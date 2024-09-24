@@ -78,10 +78,6 @@ const FileFormat = FileFormat.JSON;  // Change to .TXT if desired
 
 Feel free to fork the repository and submit pull requests if you'd like to improve or add features to the Cookie Cookbook. Contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 This project was created as part of the **Ultimate C# Masterclass Assignment**.
