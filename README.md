@@ -67,7 +67,7 @@ Each ingredient is identified by a unique ID, name, and preparation instruction.
 
 3. Follow the on-screen prompts to create a new recipe or view existing ones.
 
-### Changing the File Format
+### Changing the File Format (Not yet implimented)
 
 To switch between saving recipes in `.txt` or `.json`, modify the `FileFormat` constant in the program code:
 ```csharp
